@@ -2,6 +2,10 @@
 
 Static personal developer profile website for GitHub Pages.
 
+Status: Draft version
+
+Live profile: https://adeelanwrk.github.io/adeelan-yusoh-profile/
+
 ## Files
 
 - `index.html` - main profile page
