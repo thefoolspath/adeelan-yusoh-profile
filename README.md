@@ -9,8 +9,15 @@ Live profile: https://adeelanwrk.github.io/adeelan-yusoh-profile/
 ## Files
 
 - `index.html` - main profile page
-- `style.css` - responsive styling
-- `assets/profile.jpg` - profile photo
+- `assets/css/style.css` - responsive styling and first-load animation
+- `assets/app/app.loader.js` - ordered script loader for the static app
+- `assets/app/app.bootstrap.js` - app startup file
+- `assets/app/core/config/` - app configuration and mail templates
+- `assets/app/core/i18n/` - English/Thai text dictionary
+- `assets/app/core/services/` - reusable i18n and mail services
+- `assets/app/features/` - small UI feature components
+- `assets/app/shared/` - shared DOM helpers
+- `assets/profile.jpg` - profile photo asset, currently not displayed on the page
 
 ## Preview locally
 
