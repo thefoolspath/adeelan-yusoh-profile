@@ -4,7 +4,7 @@ Static personal developer profile website for GitHub Pages.
 
 Status: Draft version
 
-Live profile: https://adeelanwrk.github.io/adeelan-yusoh-profile/
+Live profile: https://thefoolspath.github.io/adeelan-yusoh-profile/
 
 ## Files
 
